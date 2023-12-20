@@ -1,5 +1,6 @@
 <h1> About my progress on Challenge 01 </h1>
-
+* This project is part of the internship program in back-end development with Java/Spring-Boot that i peform with Compass-UOL.<br>
+* Our initial challenge consisted of solving challenges with our initial study of Java and Object Orientation.
 <h2>QUESTION - 01</h2>
   <p>  
     My implementation of the challenge consists of the main method as the main starting point and 3 auxiliary methods.In main, the program will run several instances by calling auxiliary methods or issuing defined outputs.
